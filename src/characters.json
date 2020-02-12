@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Spiderman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Thor",
+      "image": "https://img.favpng.com/16/16/19/thor-captain-america-iron-man-hulk-clint-barton-png-favpng-MjHghgFv7HLG2t94MPMYMYckW.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hulk",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71A%2BRlBsJRL._AC_SX522_.jpg"
+    
+    },
+    {
+      "id": 4,
+      "name": "Ironman",
+      "image": "https://giantbomb1.cbsistatic.com/uploads/scale_medium/3/32132/1871118-iron_man.png"
+    },
+    {
+      "id": 5,
+      "name": "captainAmerica",
+      "image": "https://vignette.wikia.nocookie.net/marvelanimated/images/c/c0/Captain_America_AEMH.jpg/revision/latest/scale-to-width-down/340?cb=20101012055520"
+
+    },
+    {
+      "id": 6,
+      "name": "Batman",
+      "image": "https://i.pinimg.com/originals/71/a4/53/71a45343ffe4b27d9e6feb9519efb7f9.jpg"
+
+    },
+    {
+      "id": 7,
+      "name": "SuperMan",
+      "image": "https://w0.pngwave.com/png/767/370/superman-fleischer-studios-cartoon-dc-animated-universe-cartoon-superman-png-clip-art.png"
+
+    },
+    {
+      "id": 8,
+      "name": "Flash",
+      "image": "https://i.pinimg.com/originals/f6/9e/a4/f69ea4170171e0dfabd6841a7c6158f2.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Green Lantern",
+      "image": "https://img.favpng.com/1/17/24/john-stewart-hal-jordan-green-lantern-corps-animated-series-png-favpng-SXBCC2g7QKXvF9CsqAy6nJTfu.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Green Arrow",
+      "image": "https://i.pinimg.com/originals/88/4c/e2/884ce2c7280e2052ad6cca47809df470.png"
+    },
+    {
+      "id": 11,
+      "name": "Wolverine",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTH5Hvy36LP3Yb0Ukx1Hvpwg1RclaHjaRjlW8Jolqsy1CpYVoMM"
+    },
+    {
+      "id": 12,
+      "name": "Wonder Woman",
+      "image": "https://pbs.twimg.com/profile_images/1038466707637956608/ciMwP-wq_400x400.jpg"
+    }
+  ]
