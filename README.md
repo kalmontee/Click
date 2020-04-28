@@ -20,4 +20,4 @@ This is a frontend application built with React.js. It extends components from t
 
 ## Demo
 
-[Click Here](https://radiant-brushlands-21846.herokuapp.com/)
+[superheroesclicky.herokuapp.com](https://superheroesclicky.herokuapp.com/)
